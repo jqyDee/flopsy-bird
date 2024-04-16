@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/mfischbach/Developer/projects/flopsy-bird/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/opt/homebrew/Cellar/sdl2/2.30.1/include -I/opt/homebrew/include/SDL2 -isystem /opt/homebrew/Cellar/sdl2/2.30.1/include/SDL2  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/flopsy-bird.dir/src/main.c.o -c /Users/mfischbach/Developer/projects/flopsy-bird/src/main.c",
+  "file": "/Users/mfischbach/Developer/projects/flopsy-bird/src/main.c",
+  "output": "CMakeFiles/flopsy-bird.dir/src/main.c.o"
+}
+]
