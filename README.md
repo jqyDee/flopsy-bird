@@ -8,7 +8,7 @@ make
 
 compile and run using
 ```
-mkdir build
+mkdir build && cd build
 cmake ..
 make && ./flopsy-bird
 ```
