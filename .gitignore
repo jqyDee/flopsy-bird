@@ -1,3 +1,7 @@
-/build
-/.cache
+**/build
+**/.cache
+**/.idea
+**/cmake-build-debug-event-trace
+**/cmake-build-debug
+.DS_Store
 compile_commands.json
